@@ -21,6 +21,17 @@ body {
     border-color: rgb(80, 250, 123);
 }
 
+#title {
+    font-family: fantasy;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-weight: 600;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
 #prompter {
     margin-left: auto;
     margin-top: 15px;
